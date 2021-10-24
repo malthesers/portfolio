@@ -213,4 +213,24 @@ function loadAnimations() {
       start: "top 70%",
     },
   });
+
+  gsap.to(".contact-grid .left", {
+    x: "0%",
+    duration: 1,
+    ease: "back.out(1.2)",
+    scrollTrigger: {
+      trigger: ".contact-grid",
+      start: "top 70%",
+    },
+  });
+
+  gsap.to(".contact-grid .right", {
+    x: "0%",
+    duration: 1,
+    ease: "back.out(1.2)",
+    scrollTrigger: {
+      trigger: ".contact-grid",
+      start: "top 70%",
+    },
+  });
 }

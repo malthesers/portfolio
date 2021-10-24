@@ -491,10 +491,15 @@ nav span {
 
 #section-contact {
   background-color: var(--darkpurple);
+  padding-bottom: 10rem;
 }
 
 #section-contact p {
   margin: 0;
+}
+
+.contact-grid {
+  overflow: hidden;
 }
 
 .contact-mail {
