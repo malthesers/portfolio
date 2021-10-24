@@ -202,47 +202,47 @@ nav span {
 }
 
 .layer-background {
-  background-image: url(/svg/background-layers/layer-background.svg);
+  background-image: url(svg/background-layers/layer-background.svg);
   overflow: hidden;
 }
 
 .layer-moon {
-  background-image: url(/svg/background-layers/layer-moon.svg);
+  background-image: url(svg/background-layers/layer-moon.svg);
   background-position: 90%;
 }
 
 .layer-mountain-far {
-  background-image: url(/svg/background-layers/layer-mountain-far.svg);
+  background-image: url(svg/background-layers/layer-mountain-far.svg);
   background-position: 80%;
 }
 
 .layer-mountain-near {
-  background-image: url(/svg/background-layers/layer-mountain-near.svg);
+  background-image: url(svg/background-layers/layer-mountain-near.svg);
   background-position: 70%;
 }
 
 .layer-trees {
-  background-image: url(/svg/background-layers/layer-trees.svg);
+  background-image: url(svg/background-layers/layer-trees.svg);
   background-position: 50%;
 }
 
 .layer-mountain-far-reflection {
-  background-image: url(/svg/background-layers/layer-mountain-far-reflection.svg);
+  background-image: url(svg/background-layers/layer-mountain-far-reflection.svg);
   background-position: 80%;
 }
 
 .layer-mountain-near-reflection {
-  background-image: url(/svg/background-layers/layer-mountain-near-reflection.svg);
+  background-image: url(svg/background-layers/layer-mountain-near-reflection.svg);
   background-position: 70%;
 }
 
 .layer-reflection {
-  background-image: url(/svg/background-layers/layer-reflection.svg);
+  background-image: url(svg/background-layers/layer-reflection.svg);
   background-position: 50%;
 }
 
 .layer-foreground {
-  background-image: url(/svg/background-layers/layer-foreground.svg);
+  background-image: url(svg/background-layers/layer-foreground.svg);
   background-position: 15%;
 }
 

@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 async function loadPortraitSVG() {
-  fetch("/svg/portrait.svg")
+  fetch("svg/portrait.svg")
     .then((res) => res.text())
     .then((portraitSVG) => {
       document.querySelector(".about-portrait").innerHTML = portraitSVG;
