@@ -220,7 +220,7 @@ function loadAnimations() {
     ease: "back.out(1.2)",
     scrollTrigger: {
       trigger: ".contact-grid",
-      start: "top 70%",
+      start: "top 80%",
     },
   });
 
@@ -230,7 +230,7 @@ function loadAnimations() {
     ease: "back.out(1.2)",
     scrollTrigger: {
       trigger: ".contact-grid",
-      start: "top 70%",
+      start: "top 80%",
     },
   });
 }
