@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 386">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #100019;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path id="Cavern-left" class="cls-1" d="M0,386c22.39452-37.46606,32.18293-69.82324,37-92,14.13358-65.06793-6.3532-93.58679,16-144,11.47466-25.87878,26.63344-40.89349,54-68A463.68762,463.68762,0,0,1,220,0H0Z"/>
+    </g>
+  </g>
+</svg>
