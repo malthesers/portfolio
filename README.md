@@ -1,1 +1,1 @@
-https://malthesers.github.io/professional-portfolio/
+https://malthesers.github.io/portfolio/
