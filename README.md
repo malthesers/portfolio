@@ -1,4 +1,4 @@
 # My current portfolio...
 ## ...I guess
 
-Check it out at https://malthesers.github.io/portfolio/.
+Check it out [here](https://malthesers.github.io/portfolio/).
